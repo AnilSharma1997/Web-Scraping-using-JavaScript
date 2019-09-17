@@ -1,0 +1,19 @@
+{
+  "name": "node-web-scarping",
+  "version": "1.0.0",
+  "description": "web scraping of a commercial website",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AnilSharma1997/Web-Scraping-using-JavaScript.git"
+  },
+  "author": "anil sharma",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AnilSharma1997/Web-Scraping-using-JavaScript/issues"
+  },
+  "homepage": "https://github.com/AnilSharma1997/Web-Scraping-using-JavaScript#readme"
+}
